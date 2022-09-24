@@ -1,0 +1,38 @@
+I will do frontend development and responsive design in react, react router
+I have experience with JavaScript, React.Js, Node.js, and Express.Js  enhanced my technical abilities.
+
+I have been able to craft quality websites for organizations thanks to my experience with web development. Having experience with solid programming skills and excellent oral and verbal communication skills.
+
+
+
+
+
+What makes me the right choice? My modern web application includes all of these features:
+
+Designing responsive websites
+A modern user interface
+Protected
+Easy to use
+Ease of scaling
+Compatibility with multiple platforms and browsers
+Cost-efficiency
+Clearly documented code
+Code that is bug-free
+Performing automated tests (unit testing, integration testing)
+ 
+
+The tools I usually use to build apps are:
+
+Reactjs
+Material UI
+Node.Js
+Express.Js
+MongoDB
+Ant Design
+Tailwind CSS
+Redux (thunk)
+Firebase
+and many more on demand
+ 
+
+It is my pleasure to be friendly. My goal is to help you shape your business to another level by listening to the logic of your business. Since the beginning of my career, I helped businesses and ideas grow. Feel free to reach out to me!

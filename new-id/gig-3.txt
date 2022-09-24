@@ -1,0 +1,38 @@
+I will be your MERN stack, React, Full-stack developer
+
+Welcome
+Looking for an exper MERN stack developer (React js, Node js, MongoDB, express js )? You are at the right place.
+
+I am a professional MERN Stack developer have expertise in developing high-quality, interactive, pixel-perfect, and responsive web applications using react js. I have 2+ years of experience in web development and developed several web applications like e-commerce, chat-application, LMS and so on.
+
+Services I provide:
+Mern Stack Web Application
+Figma to Mern Stack
+PSD to Mern Stack 
+Bug Fixing
+Responsive Design
+Custom Styling
+Complete react js frontend web app
+High-Quality Website
+
+Will be use:
+React.js
+React Hooks
+React Redux
+Redux Toolkit
+Express js
+Node js
+MongoDB
+Material UI
+HTML, CSS, JavaScript
+
+
+Why Me:
+
+Responsive design
+100% customer satisfaction
+Well formatted code
+Reusable components
+High-Quality and Pixel Perfect Design
+24/7 availability
+Excellent customer support

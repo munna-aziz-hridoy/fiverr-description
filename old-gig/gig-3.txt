@@ -1,0 +1,39 @@
+I will develop or fix mern stack, react js and node js websites
+Welcome to my gig!
+
+
+
+I specialize in using JavaScript & TypeScript to develop Web applications. In addition, I am also proficient in frontend and backend app development with the MERN stack.
+
+
+
+My Services:
+
+Single or Multi-page website using React.JS or MERN stack
+Develop Backend using Express.JS and Node.JS
+The front-end website will use a component-based react js MERN stack-based on Figma.
+My responsibilities as a MERN stack developer include developing a real-time node & react js custom website (ERP, point of sale, multi-vendor e-commerce website, etc.) with role-based custom dashboards.
+Implementation of payment gateways (Stripe / PayPal) with React.JS websites
+ 
+
+Tools and technology
+
+Javascript, Typescript
+React.JS and necessary dependencies (Axios, react-query, react-router, and more)
+CSS Frameworks (Bootstrap, Tailwind CSS)
+Component Libraries (Material UI, Ant Design, Daisy UI)
+Firebase
+Node.JS and Express.JS
+
+
+(If you have any custom requirements with the tools or technology please feel free to reach)
+
+
+
+Ping me if you have any custom requirement or feels like the package does not match your needs. 
+
+
+
+Regards 
+
+Munna Aziz
